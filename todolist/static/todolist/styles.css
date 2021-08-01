@@ -2,6 +2,7 @@ body {
 	background: #3399ff;
 	font-family: 'Oswald', 'Futura', sans-serif;
 }
+
 #wrapper {
 	margin-top: 10% !important;
 }
@@ -27,6 +28,10 @@ body {
 footer {
 	margin-top: 20px;
 	color: white;
+}
+#a {
+	text-decoration: none;
+	color: #fff;
 }
 #add-btn {
 	background-color:green;
